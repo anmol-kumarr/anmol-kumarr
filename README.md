@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-kumarr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol-kumarr" alt="anmol-kumarr" /></a> </p>
 
 - 🔭 I’m currently working on [NetFlix-clone](https://github.com/anmol-kumarr/Netflix)
 
