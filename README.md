@@ -35,8 +35,9 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-
 </div>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-kumarr&show_icons=true&locale=en&layout=compact" alt="anmol-kumarr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-kumarr&show_icons=true&locale=en" alt="anmol-kumarr" /></p>
