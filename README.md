@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-kumarr" /> </p>
 
-- 🔭 I’m currently working on [NetFlix-clone](https://github.com/anmol-kumarr/Netflix)
+- 🔭 I’m currently working on [Foodie]
 
 - 🌱 I’m currently learning **Full stack web development**
 
